@@ -58,8 +58,8 @@ flowchart TD
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/document-processor.git
-   cd document-processor
+   git clone https://github.com/KarthikChekuri/AI_Document_Processor.git
+   cd AI_Document_Processor
    ```
 
 2. **Install dependencies**
@@ -70,7 +70,7 @@ flowchart TD
 3. **Configure environment**
    Create a `.env` file:
    ```env
-   LLAMA_CLOUD_API_KEY=your_llamaparse_api_key_here
+   API_KEY=your_llamaparse_api_key_here
    ```
 
 4. **Start LM Studio**
