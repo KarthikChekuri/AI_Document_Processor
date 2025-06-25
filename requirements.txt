@@ -1,2 +1,5 @@
-llama-cloud-services
+openai
+python-dotenv
 pypdf
+llama-cloud-services
+python-multipart
